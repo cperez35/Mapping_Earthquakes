@@ -1,1 +1,5 @@
 # Mapping_Earthquakes
+Mapping Earthquakes with JS &amp; APIs
+
+## Main Objectives: 
+The project #Mapping_Earthquakes aims to map earthquakes using JavaScript and APIs. The first step is to create a branch from the main branch on GitHub, and then add, commit, and push data to that branch. Next, the branch will be merged with the main branch on GitHub. Then, data will be retrieved from a GeoJSON file, and API requests will be made to a server to host geographical maps. Using JavaScript and the Data-Driven Documents (D3) library, the geographical maps will be populated with GeoJSON data. Multiple map layers will be added to the maps using Leaflet control plugins to add user interface controls. JavaScript ES6 functions will be utilized to add GeoJSON data, features, and interactivity to the maps. Finally, the maps will be rendered on a local server.
